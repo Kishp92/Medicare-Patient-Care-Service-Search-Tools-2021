@@ -4,5 +4,5 @@
 
 Search tool dashboards to find equipment vendors, rehab, nursing homes, and hospice care for Medicare patients based on various criteria.
 
-## Tableau Dashboard 
+## Tableau Dashboards
 
