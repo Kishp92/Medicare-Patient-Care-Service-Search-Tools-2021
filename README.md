@@ -4,6 +4,10 @@
 
 Search tool dashboards to find equipment vendors, rehab, nursing homes, and hospice care for Medicare patients based on various criteria.
 
+## Purpose
+
+As we age, its inevitable for our health to deteriorate. Regarless of its you who needs the help, a loved one, or a patient. Everyone should have access to the proper care they need and have the ability to choose. I created these dashboards to help the user select healthcare providers based on their specific needs. 
+
 ## Tableau Dashboards
 
 <a href="https://public.tableau.com/app/profile/kishan.patel2847/viz/MedicarePatientCareServiceSearchToolsVendors/VendorsDash">Medical Supply Vendor Search Tool</a>
